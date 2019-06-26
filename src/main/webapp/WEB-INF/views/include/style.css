@@ -1,0 +1,5 @@
+@charset "UTF-8";
+a:link { text-decoration: node; color: blue; } /* 하이퍼링크 밑줄 제거 + 파란색으로 설정 */
+a:hover { text-decoration: underline; color: red; } /* 마우스가 올라가면 밑줄 + 빨간색으로 설정 */
+a:visited { text-decoration: none; } /* 방문한링크  밑줄 제거*/
+a:active { text-decoration: none; color:yellow; } /* 클릭한링크 밑줄 제거 + 노란색으로 설정 */ 
